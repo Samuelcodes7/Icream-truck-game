@@ -59,7 +59,7 @@ This project was created as a practice exercise to revisit Unity after taking a 
 
 ## Demo
 
-Add a gameplay video or GIF here if available.
+[Watch the gameplay demo](Gameplay%20Demo/Drive.mp4)
 
 ---
 
